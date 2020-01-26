@@ -1,0 +1,25 @@
+.content-justify{
+	text-align: justify;
+	text-align-last: justify;
+}
+
+#ex1Conteiner > div > button {
+	width: 30pt;
+	height: 30pt;
+	text-align-last: center;
+	font-size: 14pt;
+}
+
+.counter {
+	text-align: center;
+	text-align-last: center;
+}
+
+.col-6 {
+	display: inline-block;
+	width: calc(100% / 6);
+}
+.border-1 {
+	padding: 2pt;
+	border: solid black 1px;
+}
